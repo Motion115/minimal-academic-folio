@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/minimal-academic-folio/static/css/main.e6c13ad2.css",
+    "main.js": "/minimal-academic-folio/static/js/main.022daa43.js",
+    "static/media/selfie.jpg": "/minimal-academic-folio/static/media/selfie.6d5daa8350bd14103a6d.jpg",
+    "index.html": "/minimal-academic-folio/index.html",
+    "main.e6c13ad2.css.map": "/minimal-academic-folio/static/css/main.e6c13ad2.css.map",
+    "main.022daa43.js.map": "/minimal-academic-folio/static/js/main.022daa43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.022daa43.js"
+  ]
+}
